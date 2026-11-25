@@ -1,0 +1,8 @@
+{
+  "name": "NexusQnA — Conversational QnA Chatbot Blueprint",
+  "description": "Complete Python, Streamlit, Groq, LangChain Agents, and FAISS RAG chatbot codebase explorer and setup guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
